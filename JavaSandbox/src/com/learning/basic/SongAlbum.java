@@ -1,4 +1,4 @@
-package com.learning.todo;
+package com.learning.basic;
 
 import java.util.Scanner;
 import java.util.ArrayList;
